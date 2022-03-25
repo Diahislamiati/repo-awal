@@ -1,1 +1,2 @@
-print('Hallo Dunia ! ')
+print('Halo Dunia !')
+print('Belajar AI !')
